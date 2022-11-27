@@ -80,6 +80,7 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+![alt text](https://github.com/Mekuseo/Expanding-Cards-Widget/blob/master/Expanding%20cards%20widget%20Screenshot.png)
 
 > https://mekuseo.github.io/Form-Validator/
 
